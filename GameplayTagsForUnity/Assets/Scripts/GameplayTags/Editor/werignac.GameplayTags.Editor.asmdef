@@ -1,0 +1,18 @@
+{
+    "name": "werignac.GameplayTags.Editor",
+    "rootNamespace": "werignac.GameplayTags.Editor",
+    "references": [
+        "GUID:7bab419ac3634dd4b9674b6eedb12517"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
